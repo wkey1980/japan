@@ -1,0 +1,2 @@
+# japan
+Theme name - Japan
