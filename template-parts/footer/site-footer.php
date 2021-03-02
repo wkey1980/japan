@@ -1,0 +1,7 @@
+<?php
+/**
+ * 
+ * @package japan
+ */
+?>
+
